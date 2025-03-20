@@ -8,7 +8,7 @@ description:My microgame is a shooting game that has four robots total as your o
 <br/>4.press universal 2d
 <br/>5.press create project.
 <br/> 
-<br/> In this class, I learned a lot of this that really surprised me. The things I learned were to change the colour of the floor. I learned to add a new robot/ enemy, to add a room and to import random objects. I also learned how to add a screenshot as a code and how to create a new line in GitHub. Creating a room was a simple straight forward task that was understandable, and I was able to understand and set up everything without issues.
+<br/> In this class, I learned a lot of things that really surprised me. The things I learned were to change the colour of the floor. I learned to add a new robot/ enemy, to add a room and to import random objects. I also learned how to add a screenshot as a code and how to create a new line in GitHub. Creating a room was a simple straight forward task that was understandable. However, I created a structure but couldn't add it to the original structure because I didn't know how to create a door through the exsisting wall, this is a feature I need to learn in the game. However, to accomodate for this issue, I decided to add a room within the existing structure to make it a room to hide in when the player was being attacked by the main robot.
 <br/>
 <br/>In case the actual branch doesn't work
 <br/><br/>custom feautrures 1
