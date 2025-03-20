@@ -7,4 +7,5 @@ description:My microgame is a shooting game that has four robots total as your o
 <br/>3.go to project tab and click new project
 <br/>4.press universal 2d
 <br/>5.press create project.
-
+<br/> 
+<br/> In this class, I learned a lot of this that really surprised me. The things I learned were to change the colour of the floor. I learned to add a new robot/ enemy, to add a room and to import random objects. I also learned how to add a screenshot as a code and how to create a new line in GitHub. Creating a room was a simple straight forward task that was understandable, and I was able to understand and set up everything without issues. 
